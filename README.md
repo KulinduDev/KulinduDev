@@ -24,7 +24,7 @@ roles in Backend Engineering, Data Engineering, and AI/ML.
 
 ### 🔭 Featured projects
 
-**[BowlerGuard](https://github.com/KulinduDev/bowlerguard)** — Sports Tech SaaS · Python · XGBoost · SHAP · Flask
+**[BowlerGuard](https://github.com/KulinduDev/bowlerguard_final)** — Sports Tech SaaS · Python · XGBoost · SHAP · Flask
 > ML platform that predicts immediate injury risk for fast bowlers from
 > accumulated fatigue — no sensors required. Built an end-to-end ETL
 > pipeline across ~5,000 player-match instances, achieving ROC-AUC 0.85
