@@ -24,14 +24,14 @@ roles in Backend Engineering, Data Engineering, and AI/ML.
 
 ### 🔭 Featured projects
 
-**[BowlerGuard](https://github.com/YOUR_USERNAME/bowlerguard)** — Sports Tech SaaS · Python · XGBoost · SHAP · Flask
+**[BowlerGuard](https://github.com/KulinduDev/bowlerguard)** — Sports Tech SaaS · Python · XGBoost · SHAP · Flask
 > ML platform that predicts immediate injury risk for fast bowlers from
 > accumulated fatigue — no sensors required. Built an end-to-end ETL
 > pipeline across ~5,000 player-match instances, achieving ROC-AUC 0.85
 > (vs 46.75% rule-only baseline). SHAP explanations make every prediction
 > auditable by coaches and analysts.
 
-**[Event Notification Service](https://github.com/YOUR_USERNAME/event-notification-service)** — Java · Spring Boot · RabbitMQ · Docker
+**[Event Notification Service](https://github.com/KulinduDev/event-notification-service)** — Java · Spring Boot · RabbitMQ · Docker
 > Event-driven microservices system with zero message loss across 1,000
 > sequential events. p95 latency under 50ms at 100 concurrent requests.
 > 99.5% Firebase FCM delivery success across 500+ token fan-out.
